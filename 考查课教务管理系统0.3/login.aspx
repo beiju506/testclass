@@ -22,8 +22,13 @@
                 <td style="width:200px"></td>
             </tr>
         </table>    
-        
+
             <table style="text-align:center">
+                <tr>
+                    <td>
+                        132456
+                        </td>
+                </tr>
                 <tr>
                     <td><asp:Label ID="Label_font" runat="server" Text="考查课教务管理系统" Font-Names="华文行楷" Font-Size="50px" ForeColor="White"></asp:Label></td>
                 </tr>
